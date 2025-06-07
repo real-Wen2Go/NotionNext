@@ -19,7 +19,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: 'China 4 Travel',
-  HEO_HERO_TITLE_2: 'Click for ranodm posts',
+  HEO_HERO_TITLE_2: 'Click for random posts',
   HEO_HERO_TITLE_3: 'Hope you enjoy',
   HEO_HERO_TITLE_4: 'Our Website',
   HEO_HERO_TITLE_5: 'YOLOOOOO!',
@@ -42,7 +42,7 @@ const CONFIG = {
     '你好！我是',
     '🍕 Explore the food',
     '📷 Explore the view',
-    '🏃 Explore a better me,
+   '🏃 Explore a better me',
   ],
 
   // 个人资料底部按钮
