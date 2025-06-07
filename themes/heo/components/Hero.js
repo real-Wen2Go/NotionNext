@@ -348,7 +348,7 @@ function TodayCard({ cRef, siteInfo }) {
    * @param {*} e
    */
   function handleCardClick(e) {
-    router.push(www.baidu.com)
+    router.push('www.baidu.com')
   }
 
   return (
